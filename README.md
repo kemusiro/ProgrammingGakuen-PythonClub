@@ -1,0 +1,2 @@
+# ProgrammingGakuen-PythonClub
+Interface別冊プログラミング学園Python部で掲載したプログラムを公開します。
